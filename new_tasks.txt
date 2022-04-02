@@ -1,0 +1,13 @@
+Binary classification
+	- Who survives the Titanic disaster
+		https://www.kaggle.com/competitions/titanic
+	- Trasaction prediction 
+		https://www.kaggle.com/competitions/santander-customer-transaction-prediction/
+	- Credit default risk
+		https://www.kaggle.com/competitions/home-credit-default-risk
+
+Time series
+	- Store sales
+		https://www.kaggle.com/competitions/store-sales-time-series-forecasting
+	- Market volatility prediction
+		https://www.kaggle.com/competitions/optiver-realized-volatility-prediction/overview/evaluation
